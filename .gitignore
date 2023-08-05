@@ -1,0 +1,7 @@
+node_modules/*
+fonts
+images
+package.json
+pnpm-lock.yaml
+script.ts
+tsconfig.json
